@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6026" started-at="2014-07-10T04:07:56Z" finished-at="2014-07-10T04:08:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6026" started-at="2014-07-10T04:07:56Z" finished-at="2014-07-10T04:08:02Z">
+      <class name="com.hc.testng.TestNGClass">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.hc.testng.TestNGClass@1cd072a9]" name="beforeClass" is-config="true" duration-ms="3969" started-at="2014-07-10T09:37:56Z" finished-at="2014-07-10T09:37:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.hc.testng.TestNGClass@1cd072a9]" name="test1" duration-ms="1843" started-at="2014-07-10T09:37:59Z" finished-at="2014-07-10T09:38:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.hc.testng.TestNGClass@1cd072a9]" name="test3" duration-ms="4" started-at="2014-07-10T09:38:01Z" finished-at="2014-07-10T09:38:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.hc.testng.TestNGClass@1cd072a9]" name="afterClass" is-config="true" duration-ms="195" started-at="2014-07-10T09:38:01Z" finished-at="2014-07-10T09:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.hc.testng.TestNGClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
